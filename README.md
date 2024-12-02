@@ -1,1 +1,1 @@
-🚀
+Advent of code fun
